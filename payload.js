@@ -1,3 +1,3 @@
 if (window.location.href.includes("youtube")) {
-    window.location.href = "https://pokeknight2610.github.io/blockedpage/";
+    window.location.href = "https://pokeknight2610.github.io/blockedpage/blocked1.mhtml";
 }
